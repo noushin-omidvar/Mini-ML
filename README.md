@@ -48,6 +48,5 @@ You can install these dependencies using `pip`, the Python package manager.
 
 For each project, follow the instructions provided in its respective README file. Usually, you can run the code in a Jupyter notebook or a Python script, depending on the project structure.
 
-Feel free to modify and experiment with the code to gain a deeper understanding of the concepts. Additionally, consider writing unit tests or exploring other datasets to expand your learning.
 
  If you have any questions or feedback, don't hesitate to reach out. 
